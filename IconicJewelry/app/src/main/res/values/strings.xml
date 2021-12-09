@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Iconic Jewelry</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="create_an_account">New Here? <u>Create an Account</u></string>
+    <string name="about_us">
+        We want women to exercise their agency, achieve equality and gain access to all they need to thrive.
+        It starts with what a woman chooses to wear to express and celebrate herself and extends to every aspect of our female-driven business.
+    </string>
+    <string name="delivery_text"> – Once we receive the payment, the items will be sent within 4-7 business days.</string>
+    <string name="payment_text"> - Send the amount on the following email address:</string>
+    <string name="contact_us">Due to COVID-19, it\'s getting really busy to address every customer within quick minutes. We are surely working hard to serve you better, but some responses might delay. Thank you for your understanding,</string>
+    <string name="address">New Westminster, BC Canada.</string>
+    <string name="phone">Mobile: (+1) 234 456 7890</string>
+    <string name="email">appliedresearchproject2021@gmail.com</string>
+    <string name="return1">NOTICE: Due to Covid-19, shipping times are slower than usual. Please be patient. We have temporarily switched our shipping carrier. All domestic orders over $100 will receive free shipping. If you are local to Vancover we do offer FREE in-store pick up.</string>
+    <string name="return2">We will happily exchange or issue store credit on almost all products with ALL original tags still attached within 10 days of the confirmation of delivery. The receipt included in your package must be present.</string>
+    <string name="return3">*Please note: items marked Final Sale cannot be exchanged.</string>
+    <string name="return4">To begin the exchange process please contact us via:</string>
+    <string name="return5">Email: appliedresearch2021@gmail.com</string>
+    <string name="return6">Phone: + 01 234 567 89.</string>
+    <string name="return7">Please include the following when emailing us for exchanges.</string>
+    <string name="termsOfUse1">General</string>
+    <string name="termsOfUse2">Please read these terms of service carefully before using iconicjewelry.com website.</string>
+    <string name="termsOfUse3">Conditions of Use</string>
+    <string name="termsOfUse4">We will provide their services to you, which are subject to the conditions stated below in this document. Every time you visit this website, use its services or make a purchase, you accept the following conditions. This is why we urge you to read them carefully.</string>
+    <string name="termsOfUse5">Communications</string>
+    <string name="termsOfUse6">The entire communication with us is electronic. Every time you send us an email or visit our website, you are going to be communicating with us. You hereby consent to receive communications from us. If you subscribe to the news on our website, you are going to receive regular emails from us. We will continue to communicate with you by posting news and notices on our website and by sending you emails. You also agree that all notices, disclosures, agreements and other communications we provide to you electronically meet the legal requirements that such communications be in writing.</string>
+    <string name="termsOfUse7">Comments, Reviews, and Emails</string>
+    <string name="termsOfUse8">Visitors may post content as long as it is not obscene, illegal, defamatory, threatening, infringing of intellectual property rights, invasive of privacy or injurious in any other way to third parties. Content has to be free of software viruses, political campaign, and commercial solicitation.</string>
+    <string name="termsOfUse9">User Account</string>
+    <string name="termsOfUse10">If you are an owner of an account on this website, you are solely responsible for maintaining the confidentiality of your private user details (username and password). You are responsible for all activities that occur under your account or password.</string>
+    <string name="termsOfUse11">License and Site Access</string>
+    <string name="termsOfUse12">We grant you a limited license to access and make personal use of this website. You are not allowed to download or modify it. This may be done only with written consent from us.</string>
+    <string name="privacyPolicy1">Safeguarding and Securing the Data</string>
+    <string name="privacyPolicy2">Iconic Jewelry is committed to securing your data and keeping it confidential. It has done all in its power to prevent data theft, unauthorized access, and disclosure by implementing the latest technologies and software, which help us safeguard all the information we collect online.</string>
+    <string name="privacyPolicy3">Our Cookie Policy</string>
+    <string name="privacyPolicy4">Once you agree to allow our website to use cookies, you also agree to use the data it collects regarding your online behavior (analyze web traffic, web pages you spend the most time on, and websites you visit).The data we collect by using cookies is used to customize our website to your needs. After we use the data for statistical analysis, the data is completely removed from our systems.Please note that cookies don\'t allow us to gain control of your computer in any way. They are strictly used to monitor which pages you find useful and which you do not so that we can provide a better experience for you.</string>
+    <string name="privacyPolicy5">Links to Other Websites</string>
+    <string name="privacyPolicy6">Our website contains links that lead to other websites. If you click on these links Iconic Jewelry is not held responsible for your data and privacy protection. Visiting those websites is not governed by this privacy policy agreement. Make sure to read the privacy policy documentation of the website you go to from our website.</string>
+    <string name="privacyPolicy7">Restricting the Collection of your Personal Data</string>
+    <string name="privacyPolicy8">At some point, you might wish to restrict the use and collection of your personal data. You can achieve this by doing the following:When you are filling the forms on the website, make sure to check if there is a box which you can leave unchecked, if you don\'t want to disclose your personal information.If you have already agreed to share your information with us, feel free to contact us via email and we will be more than happy to change this for you.Iconic Jewelry will not lease, sell or distribute your personal information to any third parties, unless we have your permission. We might do so if the law forces us. Your personal information will be used when we need to send you promotional materials if you agree to this privacy policy.</string>
+</resources>

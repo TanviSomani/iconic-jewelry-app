@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/customize_drawer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fef9f8"
+    tools:context=".CustomizeActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include layout="@layout/main_toolbar" />
+
+        <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="150dp"
+                android:orientation="horizontal"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/necklace1"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/necklace1" />
+
+                <ImageView
+                    android:id="@+id/necklace2"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/necklace2" />
+
+                <ImageView
+                    android:id="@+id/necklace3"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/necklace3" />
+
+                <ImageView
+                    android:id="@+id/necklace4"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/necklace4" />
+
+                <ImageView
+                    android:id="@+id/earring1"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/earrings1" />
+
+                <ImageView
+                    android:id="@+id/earring2"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/earrings2" />
+
+                <ImageView
+                    android:id="@+id/earring3"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/earrings3" />
+
+                <ImageView
+                    android:id="@+id/earring4"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/earrings4" />
+
+                <ImageView
+                    android:id="@+id/ring1"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/ring1" />
+
+                <ImageView
+                    android:id="@+id/ring2"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/ring2" />
+
+                <ImageView
+                    android:id="@+id/ring3"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/ring3" />
+
+                <ImageView
+                    android:id="@+id/ring4"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/ring4" />
+
+                <ImageView
+                    android:id="@+id/bracelet1"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/bracelet1" />
+
+                <ImageView
+                    android:id="@+id/bracelet2"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/bracelet2" />
+
+                <ImageView
+                    android:id="@+id/bracelet3"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/bracelet3" />
+
+                <ImageView
+                    android:id="@+id/bracelet4"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:layout_marginEnd="16dp"
+                    android:src="@drawable/bracelet4" />
+
+            </LinearLayout>
+
+        </HorizontalScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <ImageView
+                android:id="@+id/goldCust"
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_weight="1"
+                android:src="@drawable/gold" />
+
+            <ImageView
+                android:id="@+id/silverCust"
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_weight="1"
+                android:src="@drawable/silver" />
+
+            <ImageView
+                android:id="@+id/roseGoldCust"
+                android:layout_width="0dp"
+                android:layout_height="80dp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_weight="1"
+                android:src="@drawable/rosegold" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/previewImage"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:layout_margin="16dp"
+            android:scaleType="center" />
+
+        <Button
+            android:id="@+id/customizedCart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="120dp"
+            android:layout_marginTop="32dp"
+            android:background="#ef9273"
+            android:text="Add to Cart"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@color/white">
+
+        <include layout="@layout/main_nav_drawer" />
+
+    </RelativeLayout>
+
+</androidx.drawerlayout.widget.DrawerLayout>
